@@ -1,4 +1,4 @@
-# Salut, moi c’est Claire 👩‍💻
+# Bonjour ! moi c’est Claire 👩‍💻
 
 ## 🎓 MON PARCOURS
 
