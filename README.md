@@ -94,24 +94,19 @@ Ces deux projets ont été réalisés en binôme et m'ont permis de développer 
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" style="text-align: left;">
-      <strong>📬 ME CONTACTER</strong>
-    </td>
-    <td width="50%" style="text-align: right;">
-      <a href="mailto:clairecastan@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right: 5px;" />
-      </a>
-      <a href="https://www.linkedin.com/in/claire-castan" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 5px;" />
-      </a>
-      <a href="https://github.com/Helvlaska/Helvlaska/blob/main/CV_Claire_CASTAN.pdf?raw=true" target="_blank">
-        <img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📬 ME CONTACTER
+
+<p align="left">
+  <a href="mailto:clairecastan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/claire-castan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Helvlaska/Helvlaska/blob/main/CV_Claire_CASTAN.pdf?raw=true" target="_blank">
+    <img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 ---
 
