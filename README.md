@@ -21,50 +21,52 @@ Ces deux projets ont été réalisés en binôme et m'ont permis de développer 
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
 ## 🛠️ STACK TECHNIQUE
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 300px; max-width: 600px;">
 
 ### 💻 Langages (icônes cliquable)
 <p>
   <a href="https://github.com/Helvlaska/holbertonschool-simple_shell" title="Projet C">
     <img src="https://skillicons.dev/icons?i=c" style="margin-right: 30px;" />
   </a>
-  <a href="https://github.com/Helvlaska/holbertonschool-higher_level_programming" title="Projet python">
-    <img src="https://skillicons.dev/icons?i=python" style="margin-right: 30px;"/>
+  <a href="https://github.com/Helvlaska/holbertonschool-higher_level_programming" title="Projet Python">
+    <img src="https://skillicons.dev/icons?i=python" style="margin-right: 30px;" />
   </a>
-  <a href="https://github.com/Helvlaska/P2_code" title="Projet html">
+  <a href="https://github.com/Helvlaska/P2_code" title="Projet HTML">
     <img src="https://skillicons.dev/icons?i=html" style="margin-right: 30px;" />
   </a>
-  <a href="https://github.com/Helvlaska/P3_code" title="Projet css">
-    <img src="https://skillicons.dev/icons?i=css" style="margin-right: 30px;"/>
+  <a href="https://github.com/Helvlaska/P3_code" title="Projet CSS">
+    <img src="https://skillicons.dev/icons?i=css" style="margin-right: 30px;" />
   </a>
-  <a href="https://github.com/Helvlaska/Kasa-Project" title="Projet js">
-    <img src="https://skillicons.dev/icons?i=js" style="margin-right: 30px;"/>
+  <a href="https://github.com/Helvlaska/Kasa-Project" title="Projet JS">
+    <img src="https://skillicons.dev/icons?i=js" />
   </a>
 </p>
 
-### 🧰 Outils & environnements 
+### 🧰 Outils & environnements
 <p>
   <img src="https://skillicons.dev/icons?i=git" style="margin-right: 30px;" />
   <img src="https://skillicons.dev/icons?i=bash" style="margin-right: 30px;" />
   <img src="https://skillicons.dev/icons?i=linux" style="margin-right: 30px;" />
   <img src="https://skillicons.dev/icons?i=vscode" style="margin-right: 30px;" />
-  <img src="https://skillicons.dev/icons?i=emacs" />
+  <img src="https://skillicons.dev/icons?i=emacs" style="margin-right: 30px;"/>
+  <img src="https://skillicons.dev/icons?i=figma"  />
+
 </p>
 
 ### 📦 Frameworks & bibliothèques (icônes cliquable)
 <p>
   <a href="https://github.com/Helvlaska/Kasa-Project" title="Projet React">
-    <img src="https://skillicons.dev/icons?i=react" style="margin-right: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=react" style="margin-right: 30px;" />
   </a>
   <a href="https://github.com/Helvlaska/P5_Code" title="Projet Angular">
-    <img src="https://skillicons.dev/icons?i=angular" style="margin-right: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=angular" style="margin-right: 30px;" />
   </a>
-  <a href="https://github.com/Helvlaska/P3_code" title="Projet sass">
-    <img src="https://skillicons.dev/icons?i=sass" style="margin-right: 30px;"/>
+  <a href="https://github.com/Helvlaska/P3_code" title="Projet Sass">
+    <img src="https://skillicons.dev/icons?i=sass" />
   </a>
 </p>
 
@@ -78,31 +80,35 @@ Ces deux projets ont été réalisés en binôme et m'ont permis de développer 
 - Architecture full-stack  
 - SQL et base de données relationnelle  
 
-</td>
-<td valign="top" width="40%" align="center">
-  <div style="padding-top: 120px;">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helvlaska&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
-    </p>
-  </div>
-</td>
-</tr>
-</table>
+</div>
+
+<div style="flex: 1; min-width: 250px; padding-top: 20px; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helvlaska&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
+</div>
+
+</div>
+
 
 ---
 
-## 📬 ME CONTACTER
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+
+  <span style="font-size: 1.5em; font-weight: bold;">📬 ME CONTACTER</span>
+
+  <div>
+    <a href="mailto:clairecastan@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right: 50px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/claire-castan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 50px;" />
+    </a>
+    <a href="https://github.com/Helvlaska/Helvlaska/blob/main/CV_Claire_CASTAN.pdf?raw=true" target="_blank">
+      <img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    </a>
+  </div>
+
+</div>
+
+---
 
 🎯 Je suis actuellement à la recherche d’une alternance pour finaliser ma spécialisation en full-stack !
-
-<p align="left">
-  <a href="mailto:clairecastan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/claire-castan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Helvlaska/Helvlaska/blob/main/CV_Claire_CASTAN.pdf?raw=true" target="_blank">
-    <img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
