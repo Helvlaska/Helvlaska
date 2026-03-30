@@ -1,113 +1,58 @@
-# Bonjour ! moi c’est Claire 👩‍💻
+# Bonjour, moi c'est Claire 👋
 
-## 🎓 MON PARCOURS
+Après une première carrière dans l'industrie, j'ai choisi d'apprendre à **coder**.
+Curieuse de comprendre comment les logiciels fonctionnent, j'ai commencé à me former :
 
-- 🎓 BTS Développeuse Web (front-end) — validé chez OpenClassrooms ✅ 
-- 🔧 BTS Fondamentaux Back-End — en cours chez Holberton School  
-- 🚀 Objectif : Licence Full-Stack en alternance (recherche en cours)
+- Dans un premier temps en parallèle de mon activité avec un **BTS Développement Web** chez **OpenClassRooms** (HTML, CSS, JavaScript, un peu de React et d'Angular), mais il me manquait l'expérience de travailler en équipe.
+- J'ai donc approfondi à plein temps mes connaissances côté backend (Python, C, Flask et MySQL) avec un **Titre RNCP5 DWWM** chez **Holberton School** (soutenance le 14 mars 2026), j'y ai également appris à développer des projets en équipe et effectué du **peers learning** tout au long de l'année.
 
+🎯 Aujourd'hui je cherche une **alternance de 2 ans (RNCP6: développement d'applications web et mobiles)** sur Laval / Rennes / Nantes.
 
-
-## 🚧 CE QUE JE FAIS ACTUELLEMENT
-
-Je poursuis ma spécialisation back-end chez Holberton School à travers des projets et exercices exigeants en **C** et en **Python**, qui renforcent mes compétences en programmation système et algorithmie.
-
-### 🧪 Projets techniques réalisés en **C** :
-- 🖨️ [Printf](https://github.com/Helvlaska/holbertonschool-printf) – Reproduction de la fonction `printf` de la libc (gestion de buffer, formatage, fonctions variadiques)
-- 🐚 [Simple Shell](https://github.com/Helvlaska/holbertonschool-simple_shell) – Création d’un shell Unix minimaliste (commande, PATH, fork, execve, gestion de mémoire)
-
-Ces deux projets ont été réalisés en binôme et m'ont permis de développer mes compétences en collaboration technique avec Git.
-
+> Ce que j'aime : comprendre, structurer avec méthode, résoudre des problèmes concrets seule ou en équipe.
 
 ---
 
-## 🛠️ STACK TECHNIQUE
+## 🔥 Mon projet phare — SWEET
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+**Application web de suivi du diabète**
 
-### 💻 Langages (icônes cliquables)
-<p>
-  <a href="https://github.com/Helvlaska/holbertonschool-simple_shell" title="Projet C">
-    <img src="https://skillicons.dev/icons?i=c" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Helvlaska/holbertonschool-higher_level_programming" title="Projet Python">
-    <img src="https://skillicons.dev/icons?i=python" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Helvlaska/P2_code" title="Projet HTML">
-    <img src="https://skillicons.dev/icons?i=html" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Helvlaska/P3_code" title="Projet CSS">
-    <img src="https://skillicons.dev/icons?i=css" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Helvlaska/Kasa-Project" title="Projet JS">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-</p>
+**SWEET** est une application web qui permet de centraliser le suivi des habitudes et tendances d'une personne diabétique. Elle est composée:
 
-### 🧰 Outils & environnements
-<p>
-  <img src="https://skillicons.dev/icons?i=git" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=bash" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=linux" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=emacs" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+- d'un **dashboard** qui permet le suivi de la glycémie, de l'activité physique, des médicaments, du poids, de l'humeur et des repas.
+- d'un **carnet de professionnels de santé** où l'utilisateur peut ajouter des prises de note et des documents lié à un professionnel.
+- d'un espace de **gestion de profil** utilisateur.
+- d'un **blog** avec des articles de type lifestyle.
 
-### 📦 Frameworks & bibliothèques (icônes cliquables)
-<p>
-  <a href="https://github.com/Helvlaska/Kasa-Project" title="Projet React">
-    <img src="https://skillicons.dev/icons?i=react" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Helvlaska/P5_Code" title="Projet Angular">
-    <img src="https://skillicons.dev/icons?i=angular" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/Helvlaska/P3_code" title="Projet Sass">
-    <img src="https://skillicons.dev/icons?i=sass" />
-  </a>
-</p>
+Deux autres fonctionnalités sont en cours d'implémentation:
 
-### 🗃️ Base de données
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+- un espace communautaire de type **forum**
+- un **calendrier** qui permet la gestion des rendez vous médicaux et la modification des données de santé
 
-</td>
-<td valign="top" width="40%">
+sur une architecture **API REST Flask + frontend React + base MySQL**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helvlaska&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
-</p>
+Dans une démarche produit, je recrute actuellement une trentaine de testeurs et mène des interviews de professionnels de santé pour identifier les axes d'amélioration prioritaires.
 
-<br>
+👉 [Voir la landing page](https://helvlaska.github.io/sweet-presentation/)
 
-### 📚 En cours d’apprentissage
-- 🔁 Algorithmes avancés en C  
-- 🧱 Architecture full-stack  
-- 🗃️ SQL et base de données relationnelle
-
-</td>
-  </tr>
-</table>
+> Candidature déposée au concours **La Mayenn' Innove** (catégorie étudiante) — résultat en attente.
 
 ---
 
-### 📬 ME CONTACTER
+## 📂 Projets
 
-<p align="left">
-  <a href="mailto:clairecastan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/claire-castan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Helvlaska/Helvlaska/blob/main/CV_Claire_CASTAN.pdf?raw=true" target="_blank">
-    <img src="https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [SWEET](https://github.com/Helvlaska/sweet-presentation) | App de suivi du diabète | Flask · React · MySQL · Python |
+| [HBnB](https://github.com/Helvlaska/holbertonschool-hbnb/blob/main/README.md) | Clone Airbnb modulaire avec API REST | Python · SQL · HTML · CSS · JS |
+| [KASA](https://github.com/Helvlaska/Kasa-Project) | App de location immobilière | React · JavaScript · SASS |
+| [KANAP](https://github.com/Helvlaska/P5_Code) | Site e-commerce | HTML · SASS · JavaScript |
+| [Simple Shell](https://github.com/Helvlaska/holbertonschool-simple_shell) | Mini shell Unix | C · Bash |
+| [Printf](https://github.com/Helvlaska/holbertonschool-printf) | Reproduction de printf() | C |
 
 ---
 
-🎯 Je suis actuellement à la recherche d’une alternance pour finaliser ma spécialisation en full-stack !
+## 📬 Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/claire-castan)
+
+**Ouverte à toute opportunité d'alternance en développement web et mobile, n'hésitez pas à me contacter !**
