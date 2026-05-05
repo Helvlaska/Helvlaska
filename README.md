@@ -4,7 +4,7 @@ Après une première carrière dans l'industrie, j'ai choisi d'apprendre à **co
 Curieuse de comprendre comment les logiciels fonctionnent, j'ai commencé à me former :
 
 - Dans un premier temps en parallèle de mon activité avec un **BTS Développement Web** chez **OpenClassRooms** (HTML, CSS, JavaScript, un peu de React et d'Angular), mais il me manquait l'expérience de travailler en équipe.
-- J'ai donc approfondi à plein temps mes connaissances côté backend (Python, C, Flask et MySQL) avec un **Titre RNCP5 DWWM** chez **Holberton School** (soutenance le 14 mars 2026), j'y ai également appris à développer des projets en équipe et effectué du **peers learning** tout au long de l'année.
+- J'ai donc approfondi à plein temps mes connaissances côté backend (Python, C, Flask et MySQL) avec un **Titre RNCP5 DWWM** chez **Holberton School**, j'y ai également appris à développer des projets en équipe et effectué du **peers learning** tout au long de l'année.
 
 🎯 Aujourd'hui je cherche une **alternance de 2 ans (RNCP6: développement d'applications web et mobiles)** sur Laval / Rennes / Nantes.
 
@@ -34,7 +34,7 @@ Dans une démarche produit, je recrute actuellement une trentaine de testeurs et
 
 👉 [Voir la landing page](https://helvlaska.github.io/sweet-presentation/)
 
-> Candidature déposée au concours **La Mayenn' Innove** (catégorie étudiante) — résultat en attente.
+🏆 Lauréat au concours La Mayenne Innove 2026 pour la catégorie Étudiant !
 
 ---
 
@@ -42,7 +42,7 @@ Dans une démarche produit, je recrute actuellement une trentaine de testeurs et
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [SWEET](https://github.com/Helvlaska/sweet-presentation) | App de suivi du diabète | Flask · React · MySQL · Python |
+| [SWEET](https://github.com/Helvlaska/sweet) | App de suivi du diabète | Flask · React · MySQL · Python |
 | [HBnB](https://github.com/Helvlaska/holbertonschool-hbnb/blob/main/README.md) | Clone Airbnb modulaire avec API REST | Python · SQL · HTML · CSS · JS |
 | [KASA](https://github.com/Helvlaska/Kasa-Project) | App de location immobilière | React · JavaScript · SASS |
 | [KANAP](https://github.com/Helvlaska/P5_Code) | Site e-commerce | HTML · SASS · JavaScript |
