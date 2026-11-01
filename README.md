@@ -32,7 +32,7 @@ sur une architecture **API REST Flask + frontend React + base MySQL**.
 
 Dans une démarche produit, je recrute actuellement une trentaine de testeurs et mène des interviews de professionnels de santé pour identifier les axes d'amélioration prioritaires.
 
-👉 [Voir la landing page](https://helvlaska.github.io/sweet-presentation/)
+👉 [Voir la landing page](https://www.sweetapp.fr/)
 
 🏆 Lauréat au concours La Mayenne Innove 2026 pour la catégorie Étudiant !
 
